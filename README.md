@@ -1,1 +1,1 @@
-# 1-st-OOP
+# Yegor, ISIT-1
